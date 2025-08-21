@@ -1,6 +1,28 @@
 {
-  "users": [],
-  "lastUpdated": "2025-08-21T00:41:55.946Z",
+  "users": [
+    {
+      "nis": "21",
+      "name": "nerox",
+      "email": "neroxboys@gmail.com",
+      "role": "student",
+      "registeredAt": "2025-08-21T00:42:36.291Z",
+      "projects": [],
+      "totalViews": 0,
+      "folderPath": "students/21",
+      "joinDate": "2025-08-21T00:42:36.818Z",
+      "folderCreated": true,
+      "avatar": null,
+      "about": "",
+      "socialLinks": {},
+      "isPublic": true,
+      "settings": {
+        "showEmail": false,
+        "showProjects": true,
+        "allowComments": true
+      }
+    }
+  ],
+  "lastUpdated": "2025-08-21T00:42:36.834Z",
   "version": "1.0",
-  "totalUsers": 0
+  "totalUsers": 1
 }
