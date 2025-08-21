@@ -11,7 +11,7 @@
       "folderPath": "students/21",
       "joinDate": "2025-08-21T00:42:36.818Z",
       "folderCreated": true,
-      "avatar": null,
+      "avatar": "https://apiurl-nine.vercel.app/api/download/384daa1f-f5c5-4d9b-a588-9c5df25c4107.jpg",
       "about": "",
       "socialLinks": {},
       "isPublic": true,
@@ -19,10 +19,11 @@
         "showEmail": false,
         "showProjects": true,
         "allowComments": true
-      }
+      },
+      "updatedAt": "2025-08-21T00:51:51.807Z"
     }
   ],
-  "lastUpdated": "2025-08-21T00:51:23.942Z",
+  "lastUpdated": "2025-08-21T00:51:52.186Z",
   "version": "1.0",
   "totalUsers": 1
 }
