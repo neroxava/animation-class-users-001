@@ -11,18 +11,22 @@
       "folderPath": "students/21",
       "joinDate": "2025-08-21T00:42:36.818Z",
       "folderCreated": true,
-      "avatar": null,
-      "about": "",
-      "socialLinks": {},
+      "avatar": "",
+      "about": "swhjdhwjhd",
+      "socialLinks": {
+        "instagram": "niorxugood",
+        "youtube": "anjay"
+      },
       "isPublic": true,
       "settings": {
         "showEmail": false,
         "showProjects": true,
         "allowComments": true
-      }
+      },
+      "updatedAt": "2025-08-21T00:56:32.260Z"
     }
   ],
-  "lastUpdated": "2025-08-21T00:56:27.081Z",
+  "lastUpdated": "2025-08-21T00:56:33.129Z",
   "version": "1.0",
   "totalUsers": 1
 }
