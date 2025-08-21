@@ -11,12 +11,9 @@
       "folderPath": "students/21",
       "joinDate": "2025-08-21T00:42:36.818Z",
       "folderCreated": true,
-      "avatar": "https://apiurl-nine.vercel.app/api/download/8f94a172-2412-4dd5-a016-01e1eca8b029.jpg",
-      "about": "swhjdhwjhd",
-      "socialLinks": {
-        "instagram": "niorxugood",
-        "youtube": "anjay"
-      },
+      "avatar": null,
+      "about": "",
+      "socialLinks": {},
       "isPublic": true,
       "settings": {
         "showEmail": false,
@@ -26,7 +23,7 @@
       "updatedAt": "2025-08-21T00:56:45.696Z"
     }
   ],
-  "lastUpdated": "2025-08-21T00:56:46.208Z",
+  "lastUpdated": "2025-08-21T00:56:52.203Z",
   "version": "1.0",
   "totalUsers": 1
 }
